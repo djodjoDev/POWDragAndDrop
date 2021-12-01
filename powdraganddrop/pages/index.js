@@ -32,7 +32,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Drag and drop</title>
-        <meta name="description" content="Drag and drop POW" />
+        <meta name="description" content="Drag And Drop POW" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <DndProvider backend={HTML5Backend}>
